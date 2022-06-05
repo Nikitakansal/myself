@@ -1,0 +1,39 @@
+.container-fluid{
+    background-color: #0cbaba;
+background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
+}
+.my_nav_bar {
+    width: 100%;
+    top: 0px;
+    z-index: 10;
+}
+.profile {
+    border-radius: 50%;
+    width: 30%;
+    Height: auto;
+    margin: 5% 10% ;
+    border: 2px solid rgb(88, 228, 69);
+
+}
+#intro{
+    position:relative;
+    margin:auto;
+    color:aliceblue
+}
+#path{
+    width:50%;
+}
+#sec2{
+    background-image:url("vertical1.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 2%;
+    background: cross-fade();
+}
+.project{
+    margin-top: 3%;
+}
+.imgpro{
+   height: 100%;
+   width: 100%; 
+}
