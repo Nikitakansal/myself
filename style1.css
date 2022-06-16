@@ -41,6 +41,9 @@ background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
     background-color: aliceblue;
     color:blue;
 }
-#projects{
+#Projects{
+    display: inline-block;
+}
+#contact{
     display: inline-block;
 }
